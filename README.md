@@ -1,4 +1,4 @@
-# REPORT OF SALES PERFORMANCE OF A RETAIL STORE AND CUSTOMER SEGMENTATION FOR A SUBSRIPTION SERVICE DATA ANALYSIS
+# REPORT OF SALES PERFORMANCE OF A RETAIL STORE AND CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICE DATA ANALYSIS
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Table of Content
