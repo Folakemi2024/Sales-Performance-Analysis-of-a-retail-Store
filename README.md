@@ -145,11 +145,6 @@ iv. Same process applies to Customer Segmentation for a Subscription Service Dat
 - The chart shows the revenue generated from different subscription suscribers. The Basic subscription generates the highest revenue, followed by the Standard and Premium subscription.
 
 
-
-
-
-
-
-
-
 <img width="364" alt="Average month subscription" src="https://github.com/user-attachments/assets/cd300968-a9ee-4196-88ca-6e31633b206a">
+
+- The pie chart shows the average subscription month duration for different subscription types. All three subscription types, Basic, Premium, and Standard, have an average subscription month duration of 12 months.
