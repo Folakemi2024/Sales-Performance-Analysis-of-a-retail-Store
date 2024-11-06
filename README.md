@@ -1,4 +1,4 @@
-
+# REPORT OF SALES PERFORMANCE OF A RETAIL STORE AND CUSTOMER SEGMENTATION FOR A SUBSRIPTION SERVICE DATA ANALYSIS
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Table of Content
@@ -7,11 +7,11 @@
 
 - Tools Used
 
-- Data Source
-
 - Steps in Data Cleaning
 
 - Data Analysis Process
+
+- Report Analysis
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## An Overview of Araewa Retail Store
