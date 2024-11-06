@@ -106,3 +106,22 @@ iv. Same process applies to Customer Segmentation for a Subscription Service Dat
 ### PowerBI
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Pivot Chart Analysis of Sales Performance Of Retail Store
+
+
+<img width="375" alt="Total Sales by region" src="https://github.com/user-attachments/assets/ec3876f2-bcb6-4896-8225-b746aefde36b">
+
+- This reveals that 
+
+
+<img width="345" alt="Total Revenue by Month" src="https://github.com/user-attachments/assets/7c3f78f1-3140-4297-ba0b-9c906172b7d1">
+
+
+<img width="371" alt="Total Sales for year 2023 and 2024" src="https://github.com/user-attachments/assets/503b1df0-2426-4dcf-9aec-3ed3d8a06f21">
+
+
+<img width="371" alt="Average Sales by Products" src="https://github.com/user-attachments/assets/77d78f4a-2a55-4740-9dc9-a41cd1c6ebec">
+
+
+
+
