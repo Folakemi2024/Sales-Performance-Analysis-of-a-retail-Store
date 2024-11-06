@@ -101,9 +101,23 @@ iii. Click Existing worksheet, then click okay
 
 iv. Same process applies to Customer Segmentation for a Subscription Service Data
 
-### SQL Analysis
-
 ### PowerBI
+
+i. Click on Get data to upload the data from Microsoft Excel
+
+ii. After uploading the data, tick Sales and Customer data and click tranform data 
+
+iii. From the power query editor, click on the view then tick column quality to check the data quality
+
+iv. Change the order date to date format
+
+v. Create a new column and name it Order month
+
+vi. To change the date 31/01/2023 to month, use DAX formula MonthName = FORMAT(SalesData[OrderDate], "MMMM") 
+
+vii. The visualisation is done from the report view
+
+### SQL
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Pivot Chart Analysis of Sales Performance Of Retail Store
