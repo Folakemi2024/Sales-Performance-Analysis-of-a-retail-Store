@@ -1,4 +1,5 @@
-# Report on Sales Performance Analysis of Retail Store and Customer Segmentation for a Subscription Service
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Table of Content
 
