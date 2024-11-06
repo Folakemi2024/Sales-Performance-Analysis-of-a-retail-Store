@@ -127,7 +127,8 @@ iv. Same process applies to Customer Segmentation for a Subscription Service Dat
 <img width="371" alt="Average Sales by Products" src="https://github.com/user-attachments/assets/77d78f4a-2a55-4740-9dc9-a41cd1c6ebec">
 
 - The chart shows the average sales of different clothing products. Shoes have the highest average sales with 326.7 units, followed by Shirts with 308.8 units.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Pivot Chart Analysis of Customer Segmentation for a Subscription Service
 
 <img width="358" alt="Average Revenue by Subscription" src="https://github.com/user-attachments/assets/3ab62fa1-79b7-4752-afce-3cb374a0cd33">
 
